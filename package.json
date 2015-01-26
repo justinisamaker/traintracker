@@ -1,0 +1,27 @@
+{
+  "name": "traintracker",
+  "description": "Train Tracker for the CTA",
+  "version": "0.0.1",
+  "keywords": [
+    "arduino",
+    "CTA",
+    "transit"
+  ],
+  "maintainers": [
+    {
+      "name": "Justin Smith",
+      "email": "justin@isamaker.com",
+      "web": "isamaker.com"
+    }
+  ],
+  "dependencies": {
+    "forever": "*",
+    "request": "*",
+    "xml2js": "^0.4.4",
+    "twilio": "*"
+  },
+  "repository": {
+  	"type":"git",
+  	"url":"https://github.com/justinisamaker/edison.git"
+  }
+}
