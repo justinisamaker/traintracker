@@ -68,7 +68,7 @@ function getArrTime(){
 											json['ctatt'].eta[i].rt +
 											' Line train will arrive at ' +
 											json['ctatt'].eta[i].staNm +
-											'at ' +
+											' at ' +
 											formattedArrTime;
 					console.log('set: ' + messageBody);
 					return messageBody;
